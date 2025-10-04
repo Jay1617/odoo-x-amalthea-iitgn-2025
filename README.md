@@ -62,14 +62,3 @@ Companies often struggle with manual expense reimbursement processes that are:
 
 ---
 
-## 🖼️ Mockups
-[Excalidraw Mockup Link](https://link.excalidraw.com/l/65VNwvy7c4X/4WSLZDTrhkA)
-
----
-
-## 🚀 Quick Start (Development)
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/<your-org>/mern-expenseflow-hackathon-2025.git
-cd mern-expenseflow-hackathon-2025
